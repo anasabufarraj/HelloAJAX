@@ -1,1 +1,2 @@
 # HelloAJAX
+# AJAX Training Project
